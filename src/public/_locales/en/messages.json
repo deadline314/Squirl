@@ -1,0 +1,7 @@
+{
+  "extName": { "message": "Squirl — Clip to Drive" },
+  "extDesc": {
+    "message": "Right-click to clip any web page or YouTube into Google Drive and your AI Desktop knowledge base."
+  },
+  "cmdClip": { "message": "Clip current page to Drive" }
+}

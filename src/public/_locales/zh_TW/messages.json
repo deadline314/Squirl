@@ -1,0 +1,7 @@
+{
+  "extName": { "message": "Squirl — 剪存到雲端硬碟" },
+  "extDesc": {
+    "message": "右鍵一鍵把任何網頁或 YouTube 內容剪存到 Google Drive 與 AI Desktop 知識庫。"
+  },
+  "cmdClip": { "message": "剪存目前頁面到 Drive" }
+}
